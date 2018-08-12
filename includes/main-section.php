@@ -1,24 +1,47 @@
 <main>
       <section>
-        <div class="container-fluid newsdeploy">
-            <div class="row no-gutters">
-              <div class="col-md-6">
-                <a href="guitars"><img class="img-fluid" src="assets/img/Best-Beginner-Electric-Guita.jpg"></a>
+        <div class="news-wrapper grid-container">
+          
+          <div class="new-item grid-item item1">
+              <div class="overlay">
+               
+                <a href="https://www.youtube.com"><img class="img-fluid" src="assets/img/gala-ganadores-concurso-internacional-guitarra-flamenca-sevilla-teatro-central-1024x480">
+                    <div class="new-text">GuitarsOff</div>  
+                </a>  
 
-                <span><h3 class="photo-text">Guitars on the House</h3></span>
               </div>
-              <div class="col-md-6">
-                <div class="col-md-12">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                    tempor incididu
-                </div>
-                <div class="col-md-12">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                    quis nostrud ex
-                </div>
+          </div>
+          <div class="new-item grid-item item2">
+              <div class="overlay">
+               
+                <a href="guitars"><img class="img-fluid" src="assets/img/cuatro.jpg">
+                    <div class="new-text">Cuatrosos</div>  
+                </a>  
+
               </div>
-            </div>
+          </div>
+          
+          <div class="new-item grid-item item3">
+              <div class="overlay">
+               
+                <a href="guitars"><img class="img-fluid" src="assets/img/banjo.jpg">
+                    <div class="new-text">BanjoParties</div>  
+                </a>  
+
+              </div>
+          </div>
+
+          <div class="new-item grid-item item4">
+              <div class="overlay">
+               
+                <a href="guitars"><img class="img-fluid" src="assets/img/bass.jpg">
+                    <div class="new-text">BassPop</div>  
+                </a>  
+
+              </div>
+          </div>
+
+
         </div>
       </section>
     </main>

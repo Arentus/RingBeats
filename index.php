@@ -27,11 +27,12 @@
 
 
             var color = ["#1abc9c","#16a085","#e74c3c","#8e44ad","#2c3e50","#f39c12","#f39c12","#d35400","#3498db"];
-            
+            /*
             setInterval(()=>{
                 var i = Math.floor(Math.random() * (color.length - 0)) + 0;
                 $(".navdwrap").css("background-color", color[i]);  
             }, 3000);
+            */
         });
     </script>
   </body>
