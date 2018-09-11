@@ -1,0 +1,105 @@
+body{
+	overflow-x: hidden;
+}
+
+.hblock{
+}
+.productheader{
+	padding: 0.5em 1em;
+	width: 100%;
+	height: auto;
+	background: url('https://www.pakutaso.com/shared/img/thumb/PPC_marshallnoanpu_TP_V.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	font-size: 1.5rem;
+	color: white;
+	z-index: 0;
+	text-align: center;
+}
+.brands{
+	background: white !important;
+	padding: 2em;
+	text-align: center;
+}
+
+.ibrand{
+	width: 11rem;
+	height: 8rem;	
+}
+.brands ul {
+	display: inline-block;
+}
+.brands ul li{
+	float: left;
+	text-align: center;
+}
+.titleheader{
+	text-align: left;
+	margin-left: 20px;
+	margin-top: 50px;
+	padding: 20px;	
+	background: rgba(52, 152, 219,0.9);;
+
+	text-align: left;
+	font-size: 5rem;
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-weight: 900;
+	text-transform: capitalize;
+}
+
+@media screen and (max-width: 475px){
+	.titleheader{
+		text-align: center;
+		font-size: 3rem;
+	}
+	.subheader{
+		font-size: 1.2rem;
+	}
+	.img-wrapper{
+		display: none;
+	}
+	.flycard{
+		margin: 0;
+		background-color: red;
+	}
+	.flycard img
+	{
+		height: 20rem;
+	}
+
+	
+
+
+}
+.subheader{
+	margin: 1em 3em;
+	text-align: justify; 
+}
+
+.bottom-img{
+}
+
+.videoback{
+	width: 100%;
+	height: 100vh;
+	border:none;
+
+}
+.flycard{
+	font-family: 'lato';
+	text-align: center;
+}
+.flycard p{
+
+	margin: 2em 1em;
+	color: grey;
+}
+.productswrapper{
+
+}
+
+.flycard img
+{
+	height: 25rem;
+}
+

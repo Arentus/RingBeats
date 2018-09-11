@@ -47,7 +47,14 @@ body {
 	}
 
 }
+.navbar .navbar-toggler{
+	padding: 0.2em 0.2em;
+	background-color: black;
+	color: orange;
+}
 .navblackicon{
-	background-color: orange;
-	color: black !important;
+	background-color: black;
+	padding: 1em;
+	border-radius: 2px;
+	color: orange !important;
 }
