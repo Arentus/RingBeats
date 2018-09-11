@@ -1,3 +1,8 @@
+body,html{
+	overflow-x: hidden;
+	width: 100%;
+	height: auto;
+}
 .upall{
 	color: white;
 	background: rgba(52, 152, 219, 0.7);
@@ -118,6 +123,7 @@
 	background-color: black !important;
 	padding: 3em 1em 0em 1em;
 	color: white;
+	z-index: -1;
 }
 
 .context-dark, .bg-gray-dark, .bg-primary {

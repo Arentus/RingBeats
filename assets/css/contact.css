@@ -1,0 +1,38 @@
+.contactbody{
+	background: white;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.map{
+	padding: 2em;
+	background-color: rgba(224,224,224,0.8)
+}
+.banner{
+	padding: 1.5em;
+	color: white;
+	background-color: rgba(224,224,224,0.3);
+}
+.owrapper{
+	margin-top: 0em;
+	margin-bottom: 4em;
+	background-color: white;
+	box-shadow: -2px 5px 10px rgba(22,22,22,0.2);
+	width: 95%;
+	height: 100vh;
+	border-radius: 0px 0px 0px 5px;
+	z-index: -1;
+}
+
+.wrapper{
+	background-color: white;
+	box-shadow:  -2px 5px 10px rgba(22,22,22,0.2);
+	border-radius: 5px;
+	width: 100%;
+	min-height: 80%;
+	height: auto;
+	position: relative;
+	top: 5vh;
+	right: -5vh;
+	padding: 1em;
+	z-index: 1;
+}

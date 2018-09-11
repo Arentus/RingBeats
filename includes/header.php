@@ -14,6 +14,8 @@
     <link rel="stylesheet" type="text/css" href="assets/css/productheader.css">
     <link rel="stylesheet" type="text/css" href="assets/css/welcome.css">
     <link rel="stylesheet" type="text/css" href="assets/css/components.css">
+
+    <link rel="stylesheet" type="text/css" href="assets/css/contact.css">
     <link rel="icon" href="assets/img/logoringbeats.png" type="image/png">
     
     <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:700|Lato" rel="stylesheet">
