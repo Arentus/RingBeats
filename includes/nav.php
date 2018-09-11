@@ -1,6 +1,6 @@
     <header>
 
-      <nav class="navbar navbar-expand-md navdwrap navbar-dark" ">
+      <nav class="navbar navbar-expand-md navdwrap navbar-dark">
         <a class="navbar-brand" href="index">RingBeats</a>
         <div class="navbar-toggler navbluebtn" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon navblackicon"></span>
