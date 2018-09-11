@@ -48,21 +48,6 @@
 	margin:0;
 }
 
-@media screen and(max-width: 375px){
-	.snagif{
-		background: black;
-	}
-}
-
-.snagif{
-	background: url('../img/snagif.gif');
-}
-
-.gorgif{
-	background: url('../img/gorilazgif.gif');
-	background-repeat: repeat;
-
-}
 .txt-header{
 	font-weight: 800;
 	padding: 2em;

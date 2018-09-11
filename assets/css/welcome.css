@@ -1,0 +1,42 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+.container-fluid{
+	padding: 0;
+	margin: 0;
+}
+.wwrapper{
+	background:url('../img/slash.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	height: auto;
+	color: white;
+}
+
+@media screen and (max-width: 475px){
+	.wwraper{
+		height: auto !important;
+		width: 50%;
+	}
+
+	.wwraper > .row {
+		height: auto;
+	}
+
+	.wdesc>h1{
+		color: red;
+	}
+}
+.wdesc{
+	padding: 1em;
+}
+.wdesc>h1:hover{
+	text-decoration-line: underline;
+}
+.wdesc > p {
+
+	text-align: justify-all;
+	font-weight: 600;
+}

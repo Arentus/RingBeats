@@ -1,10 +1,21 @@
 <div class="header-products"><h2 class="txt-header">Videos</h2></div>
 
-<!--
-<iframe class="videoback" src="https://www.youtube.com/embed/7GWozUFTdzI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe class="videoback" src="https://www.youtube.com/embed/98Akpf1ph2o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<div class="horz-div" style="width: 100%"></div>-->
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-6">
+			<iframe class="videoback" src="https://www.youtube.com/embed/7GWozUFTdzI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		</div>
+		<div class="col-md-6">
+			<h1>Better Call-On</h1>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</div>
+	</div>
+</div>
 
 
 

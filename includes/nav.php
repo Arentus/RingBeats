@@ -23,7 +23,7 @@
               <a class="nav-link" href="#">Cuatros</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Banjos</a>
+              <a class="nav-link" href="#">Contact Us</a>
             </li>
           </ul>
         </div>
